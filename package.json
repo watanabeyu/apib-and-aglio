@@ -1,0 +1,20 @@
+{
+  "name": "apib-and-aglio",
+  "version": "1.0.0",
+  "description": "Create API reference by API Blueprint and aglio.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API Blueprint",
+    "aglio"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-aglio": "0.0.10",
+    "gulp-ejs": "^3.0.0",
+    "gulp-rename": "^1.2.2",
+    "rimraf": "^2.6.1"
+  }
+}
